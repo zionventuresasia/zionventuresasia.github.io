@@ -3,4 +3,4 @@
 #whatOne { box-sizing: content-box; width: 431px; height: 270px; padding: 30px; border: 7px solid lightblue; position: relative; float:left; left: 25px; background-color: lightblue; } 
 #whatTwo { box-sizing: content-box; width: 431px; height: 270px; padding: 30px; border: 7px solid lightblue; position: relative; float: right; right: 25px; background-color: 00008B; } 
 #contactAndMin { box-sizing: content-box; width: 1025px; height: 222px; padding: 30px; border: 7px solid lightblue; position: relative; float: right; right: 15px; background-color: 00008B; } 
-#waterIMG { box-sizing: content-box; width: 215px; height: 600px; top: 10px; padding: 30px; border: 7px solid lightblue; position: relative; float: left; background-color: 00008B; }
+#waterIMG { box-sizing: content-box; width: 215px; height: 600px; padding: 30px; border: 7px solid lightblue; position: relative; float: left; background-color: 00008B; }
