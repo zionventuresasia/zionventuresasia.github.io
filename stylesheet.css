@@ -1,6 +1,6 @@
 #missionStatement { background-color: #ADD8E6; color: white; padding: 16px; font-size: 16px; width: 1300px; height: 90px; } 
 #logoIMG { height: 90px; width: 200; position: relative; float: right; right: 5px; } 
-#whatOne { box-sizing: content-box; width: 431px; height: 270px; padding: 30px; border: 7px solid lightblue; position: relative; float:left; left: 25px; background-color: darkblue; } 
+#whatOne { box-sizing: content-box; width: 431px; height: 270px; padding: 30px; border: 7px solid lightblue; position: relative; float:left; left: 25px; background-color: lightblue; } 
 #whatTwo { box-sizing: content-box; width: 431px; height: 270px; padding: 30px; border: 7px solid lightblue; position: relative; float: right; right: 25px; background-color: 00008B; } 
 #contactAndMin { box-sizing: content-box; width: 1025px; height: 222px; padding: 30px; border: 7px solid lightblue; position: relative; float: right; right: 15px; background-color: 00008B; } 
 #waterIMG { box-sizing: content-box; width: 215px; height: 600px; top: 15px; padding: 30px; border: 7px solid lightblue; position: relative; float: left; background-color: 00008B; }
