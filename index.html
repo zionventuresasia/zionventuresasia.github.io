@@ -9,9 +9,25 @@
     <h1 id="missionStatement">Mission Statement</h1>
     <br>
     <img src="" id="waterIMG"></img>
-    <p id="whatOne">What We Look For PT1</p>
-    <p id="whatTwo">What We Look For PT2</p>
-    <p id="contactAndMin">Contact and Markets</p>
+    <p id="whatOne">We trade for: <ul style="list-style-type:square;"><li>Gold</li><li>Other Precious Metals</li></ul></p>
+    <p id="whatTwo">We also want to trade for different types of fuel: <ul style="list-style-type:square;"><li>Crude oil</li><li>Bitumen</li><li>JET A-1</li><li>JP54</li><li>MZAUT M-100</li><li>LPG</li><li>And More!</li></ul></p>
+    <p id="contactAndMin">Contact Information <ul style="list-style-type:circle;"><li>Email: zionventuresasia@gmail.com</li><li></li> and Markets</p>
+    <form method="post" action="https://www.example.com/cgi-bin/FormMail.pl" accept-charset="ISO-8859-1" onsubmit="var   originalCharset = document.charset; document.charset = 'ISO-8859-1';
+    window.onbeforeunload = function (){document.charset=originalCharset;};">:
+
+      Your Name    <input name="realname" />
+      Your Email   <input name="email"    /> 
+      Your Message 
+      <textarea cols="40" rows="10" name="Message">
+      </textarea> 
+      <input type="submit" value="Send" /> 
+      <input type="hidden" name="recipient" value="admin@example.com" />
+      <input type="hidden" name="subject" value="Subject" />
+      <input type="hidden" name="redirect"  value="https://www.example.com/thanks.html" />
+      <input type="hidden" name="missing_fields_redirect"  value="https://www.example.com/error.html" />
+      <input type="hidden" name="required" value="realname,email,Message" />
+
+      </form>
     <link href="stylesheet.css" rel="stylesheet">
   </body>
 </html>
