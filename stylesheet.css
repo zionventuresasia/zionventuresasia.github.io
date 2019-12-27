@@ -3,6 +3,6 @@
 #cAM { font-size: 2em; }
 #logoIMG { height: 90px; width: 250px; position: relative; float: right; right: 5px; } 
 #whatOne { box-sizing: content-box; width: 431px; height: 250px; padding: 30px; border: 7px solid lightblue; position: relative; float: left; left: 50px; background-color: lightblue; } 
-#whatTwo { box-sizing: content-box; width: 431px; height: 250px; padding: 30px; border: 7px solid lightblue; position: relative; float: right; right: 25px; background-color: lightblue; } 
+#whatTwo { box-sizing: content-box; width: 431px; height: 250px; padding: 30px; border: 7px solid lightblue; position: relative; float: right; top: -100px; right: 50px; background-color: lightblue; } 
 #contactAndMin { box-sizing: content-box; width: 1025px; height: 202px; padding: 30px; border: 7px solid lightblue; position: relative; float: right; right: 15px; background-color: lightblue; text-align: center; } 
 #waterIMG { box-sizing: content-box; width: 215px; height: 600px; padding: 30px; border: 7px solid lightblue; position: relative; float: left; background-color: lightblue; }
